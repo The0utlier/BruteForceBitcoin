@@ -56,7 +56,6 @@ def get_random_address_type():
 
 
 def check_balance(address):  
-    # Replace 'YOUR_BITCOIN_ADDRESS' with the Bitcoin address you want to check
     bitcoin_address = address
   
     balance = Service().getbalance(bitcoin_address)
