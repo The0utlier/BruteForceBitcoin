@@ -1,0 +1,2 @@
+# BruteForceBitcoin
+Lottery hacking.
